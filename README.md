@@ -2,8 +2,6 @@
 
 A simple responsive Order Summary component built using HTML and CSS. This project is based on a frontend challenge to improve layout skills and ensure mobile responsiveness.
 
-![Order Summary Component screenshot](https://i.imgur.com/k1oGMWi.png)
-
 ## Features
 
 - Fully responsive layout
@@ -31,7 +29,7 @@ A simple responsive Order Summary component built using HTML and CSS. This proje
 
 ## Screenshots
 
-Add screenshots here to showcase the layout on desktop and mobile devices.
+![Order Summary Component screenshot](https://i.imgur.com/k1oGMWi.png)
 
 ## Acknowledgements
 
